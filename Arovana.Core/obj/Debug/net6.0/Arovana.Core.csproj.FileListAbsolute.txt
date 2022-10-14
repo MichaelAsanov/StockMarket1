@@ -1,0 +1,12 @@
+F:\Arovana.Console\Arovana.Core\bin\Debug\net6.0\Arovana.Core.deps.json
+F:\Arovana.Console\Arovana.Core\bin\Debug\net6.0\Arovana.Core.dll
+F:\Arovana.Console\Arovana.Core\bin\Debug\net6.0\ref\Arovana.Core.dll
+F:\Arovana.Console\Arovana.Core\bin\Debug\net6.0\Arovana.Core.pdb
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.csproj.AssemblyReference.cache
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.AssemblyInfoInputs.cache
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.AssemblyInfo.cs
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.csproj.CoreCompileInputs.cache
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.dll
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\ref\Arovana.Core.dll
+F:\Arovana.Console\Arovana.Core\obj\Debug\net6.0\Arovana.Core.pdb
